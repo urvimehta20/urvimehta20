@@ -56,7 +56,8 @@
     </a>
 </p>
 
-<a href="https://github.com/urvimehta20/github-readme-activity-graph"><img alt="Urvi Mehta' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=urvimehta20&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> 
+<!--## Contribution Graph
+<a href="https://github.com/urvimehta20/github-readme-activity-graph"><img alt="Urvi Mehta' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=urvimehta20&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>-->
 
 <br/>
 <br/>
