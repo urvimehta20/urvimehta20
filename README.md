@@ -41,7 +41,7 @@
 </p>
 <br>
 
-## 📈 Stats
+<!--## 📈 Stats
 
   <br/>
     <a href="https://github.com/urvimehta20/github-readme-stats"><img alt="Urvi Mehta' Github Stats" src="https://github-readme-stats.vercel.app/api?username=urvimehta20&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
